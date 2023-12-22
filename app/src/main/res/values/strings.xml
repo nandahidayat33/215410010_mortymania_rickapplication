@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Rick Application</string>
+    <string name="description_placeholder">
+        "Serial Rick and Morty
+        Rick and Morty" adalah sebuah serial animasi televisi
+        yang diciptakan oleh Justin Roiland dan Dan Harmon.
+        Serial ini pertama kali ditayangkan pada Desember 2013
+        dan terus mendapatkan popularitas karena campuran uniknya
+        antara komedi satir, sains fiksi, dan elemen pengembangan
+        karakter yang mendalam. Ceritanya mengikuti petualangan
+        eksentrik seorang ilmuwan jenius, Rick Sanchez, dan cucunya
+        yang naif, Morty Smith, melalui berbagai dimensi paralel
+        dan tempat-tempat aneh di alam semesta.\n\n
+
+        Deskripsi Karakter\n
+        1. Rick Sanchez\n
+        - Seorang ilmuwan alkoholik jenius yang sangat eksentrik.\n
+        - Memiliki pengetahuan dan keterampilan ilmiah yang luar biasa.\n
+        - Sering kali bertindak tidak bertanggung jawab dan impulsif.\n\n
+        2. Morty Smith\n
+        - Cucu yang naif dan terkadang tidak nyaman dengan petualangan gila kakeknya.\n
+        - Berkembang dari karakter yang polos menjadi lebih berani dan cerdas.\n
+        - Sering menjadi sasaran berbagai ancaman dan kejadian aneh.\n\n
+        3. Summer Smith\n
+        - Saudari perempuan Morty, remaja yang memiliki kepribadian yang kompleks.\n
+        - Pada beberapa kesempatan, Summer terlibat dalam petualangan bersama Rick dan Morty.\n
+        - Mengalami perkembangan karakter yang signifikan sepanjang seri.\n\n
+        4. Beth Smith\n
+        - Ibu dari Morty dan Summer, juga putri dari Rick.\n
+        - Seorang dokter bedah yang hidup dalam tekanan untuk menjaga
+        keseimbangan antara pekerjaan dan keluarga\n
+        - Memiliki hubungan kompleks dengan Rick dan terlibat dalam banyak plot cerita.\n\n
+        5. Jerry Smith\n
+        - Ayah dari Morty dan Summer, serta suami Beth.\n
+        - Seorang pekerja kantor yang cenderung kurang percaya diri.\n
+        - Sering menjadi sumber komedi karena kekonyolan dan ketidakmampuannya mengatasi situasi sulit.\n\n
+        6. Abadango Cluster Princess\n
+        - Seorang pangeran dari planet Abadango Cluster.\n
+        - Muncul dalam beberapa episode sebagai karakter yang unik dan eksentrik.\n
+        - Karakternya seringkali terlibat dalam plot cerita yang kocak dan tidak terduga.\n\n
+        7. Abradolf Lincler\n
+        - Eksperimen genetik hasil gabungan antara Abraham Lincoln dan Adolf Hitler.\n
+        - Menghadapi konflik batin karena perangkat kognitifnya yang rumit.\n
+        - Muncul sebagai karakter yang menciptakan momen komedi dan refleksi.\n\n
+        8. Adjudicator Rick\n
+        - Seorang hakim dan pemimpin kelompok Adjudicator.\n
+        - Bertugas untuk menjaga hukum dan ketertiban di alam semesta.\n
+        - Karakternya mewakili otoritas yang seringkali bertentangan dengan Rick dan karakter utama.\n\n
+        9. Agency Director\n
+        - Pemimpin dari The Citadel of Ricks, organisasi multivers yang terdiri dari banyak versi Rick.\n
+        - Memiliki sikap yang tegas dan mengendalikan kebijakan di antara Ricks.\n
+        - Berperan dalam beberapa episode yang mengungkap sisi kelam dan politik di antara Ricks.\n\n
+        10. Alan Rails\n
+        - Salah satu anggota Vindicators, kelompok pahlawan super di dunia "Rick and Morty".\n
+        - Memiliki kekuatan terkait kereta api dan seringkali menjadi tokoh yang ceria.\n"
+
+
+    </string>
+</resources>
