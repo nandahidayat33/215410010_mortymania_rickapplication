@@ -1,6 +1,7 @@
 //berikut ini adalah file plugin yang sudah dibuat,
 //dan data dari rickandmorty sudah dimasukkan kedalam file ini
 //selanjutnya beralih ke ApiServie
+//pada bagian ini juga terdapat class yang digunakan untuk model data
 package com.utdi.nandahidayat
 import com.google.gson.annotations.SerializedName
 
